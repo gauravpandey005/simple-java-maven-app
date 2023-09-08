@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-echo "Completed last stage for maste.r"            }
+echo "Completed Bug Fix"            }
         }
     }
 }
